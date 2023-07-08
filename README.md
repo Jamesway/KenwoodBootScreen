@@ -3,7 +3,8 @@ Thesea are my notes for adding a custom boot/start screen to the Kenwood DMX706S
 
 #### 1) Creating the image (These steps will work for any head unit)
 
-- Find an image you like
+- *Find an image you like*
+
   In general, the image should be the same resolution or greater than the pixel count of the headunit as scaling up or enlarging an image up leads to poor image quality and pixelization. For example, the Kenwood DMX706S has a screen resolution of 800 x 480 and the image I used was 1280 x 720.
 
 - Correct the aspect ratio so the image isn't stretched.
