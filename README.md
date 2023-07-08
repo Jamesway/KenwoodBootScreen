@@ -1,8 +1,5 @@
 # KenwoodBootScreen
-My notes for adding a custom boot/start screen to the Kenwood DMX706S
-
-
-I using the Kenwood DMX706S and this should work for newer Kenwoods like the DMX706S, however, ymmv.
+Thesea are my notes for adding a custom boot/start screen to the Kenwood DMX706S. This should work for newer Kenwoods like the DMX706S, however, ymmv.
 
 #### 1) Creating the image (These steps will work for any head unit)
 
